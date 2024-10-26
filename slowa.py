@@ -21,4 +21,4 @@ szukane_slowo = input("wpisz słowo: ")
 if szukane_slowo in licznik:
     print(f"słowo '{szukane_slowo}' występuje {licznik[szukane_slowo]} razy.")
 else:
-    print(f"niestety słowo '{szukane_slowo}' nie występuje w tekście.")
+    print(f"siema niestety słowo '{szukane_slowo}' nie występuje w tekście.")
